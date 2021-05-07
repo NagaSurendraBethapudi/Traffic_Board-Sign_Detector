@@ -40,9 +40,22 @@ Sai Krishna Yarraguntla : Code testing, Documentation work.
 Doing video enhancements without using OpenCV was difficult.
 ## Github Link : 
 
+[Link](https://github.com/NagaSurendraBethapudi/Traffic_Board-Sign_Detector)
+
 ## Video Link :
 
+Project Intro
+[Part 1](https://drive.google.com/file/d/10bLT0pG4dBbKDJM3Zh2ODfVjM36mryLP/view?usp=sharing)
+
+Increment 2
+[Part 2](https://drive.google.com/file/d/1yje90RqF3U5pM1IGa5UbLb9xoWaskfgF/view?usp=sharing)
+
+Increment 3
+[Part 3](https://drive.google.com/file/d/1ogYYy_ZCvZ55juxZIqaNRsqKKtT8leI7/view?usp=sharing)
+
 ## Presntation Link :
+
+[PPT](https://github.com/NagaSurendraBethapudi/Traffic_Board-Sign_Detector/tree/main/Increment%203/Documentation)
 
 ## Output's:
 [Input Video ](https://drive.google.com/file/d/1nhNav9Jxb94P7FvTpcssORKYXSJ6ioXz/view)
