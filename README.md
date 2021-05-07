@@ -32,7 +32,9 @@ Data was gathered form : https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-germa
 It contains 42 classes and 39,212 images
 ## Work sharing/Module sharing between teammates :
 Naga Surendra : Project research, Coding, Presentation work.
+
 Sai Krishna Puligadda : Project research, code testing and enhancements, presentation work.
+
 Sai Krishna Yarraguntla : Code testing, Documentation work.
 ## Issues :
 Doing video enhancements without using OpenCV was difficult.
